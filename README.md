@@ -16,3 +16,4 @@ Encountered an issue related to "Biconomy Forwarder Domain ERROR" during develop
 
 * Contract Deployed at : https://mumbai.polygonscan.com/address/0x86E12C578eF347a1F77dDf287d771E4735aBf744
 * App Deployed at : https://nftmarketplace-beige-tau.vercel.app/
+* Collection on OpenSea : https://testnets.opensea.io/collection/nftmarketplace-1254
